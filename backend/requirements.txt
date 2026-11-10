@@ -3,5 +3,5 @@ uvicorn
 sqlalchemy
 psycopg2-binary
 python-dotenv
-bcrypt
-python-jose
+python-telegram-bot[job-queue]
+tzdata
